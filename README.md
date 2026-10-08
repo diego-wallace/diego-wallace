@@ -7,23 +7,11 @@ Meu objetivo é transformar o conhecimento adquirido na faculdade em projetos pr
 
 ---
 
-## 🚀 Atualmente estudando
-
-### Linguagens
+## 🚀 Atualmente estudando as linguagens
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/-C/C++-lightpink?style=for-the-badge&logo=c&logoColor=black)
-
-## 📂 Projetos
-
-Aqui estão alguns dos projetos que estou desenvolvendo enquanto estudo:
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| 🔹 Projeto 01 | Em breve | Python |
-| 🔹 Projeto 02 | Em breve | JavaScript |
-| 🔹 Projeto 03 | Em breve | Python / Linux |
 
 ---
 
@@ -41,8 +29,6 @@ Aqui estão alguns dos projetos que estou desenvolvendo enquanto estudo:
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diego-wallace&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diego-wallaceO&layout=compact&theme=dark)
 
 ---
 
